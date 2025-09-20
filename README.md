@@ -14,15 +14,11 @@ Sorteo aleatorio: Con un solo clic se elige un “amigo secreto”.
 
 HTML5 para la estructura
 
-CSS3 para los estilos
+CSS para los estilos
 
-JavaScript para la lógica y manejo del DOM
+JavaScript para la lógica y manejo de la aplicación
 
 # Cómo usar
-
-Clona este repositorio:
-
-git clone https://github.com/sahianbellott-art/ChallengeAmigoSecreto/tree/main/challenge-amigo-secreto_esp-main
 
 Abre el archivo index.html en tu navegador.
 
