@@ -29,4 +29,3 @@ Presiona “Sortear” para obtener un amigo secreto al azar.
 <img width="1362" height="663" alt="image" src="https://github.com/user-attachments/assets/a5890ef9-aba7-451a-9ee3-6bef70c6e50e" />
 
 
-Presiona “Nuevo sorteo” para reiniciar.
