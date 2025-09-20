@@ -22,7 +22,7 @@ JavaScript para la lógica y manejo del DOM
 
 Clona este repositorio:
 
-git clone 
+git clone https://github.com/sahianbellott-art/ChallengeAmigoSecreto/tree/main/challenge-amigo-secreto_esp-main
 
 Abre el archivo index.html en tu navegador.
 
